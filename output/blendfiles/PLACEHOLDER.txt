@@ -1,0 +1,1 @@
+Blender files will be generated here. Due to their file size and relative lack of usefulness, they are not shipped with this repo.
